@@ -17,7 +17,7 @@ classify:
 
 ### How to use 
 - YOLO V5
-1. download dataset
+1. download dataset and [yolo v5](https://github.com/ultralytics/yolov5/tree/v5.0)
 2. change --weights = xxx.pt
 3. --source xxx.image(you want to detect)
 
@@ -26,3 +26,5 @@ classify:
   - reason:
   1. The data too small
   2. transfer learning weight 
+  
+ 
